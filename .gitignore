@@ -1,0 +1,5 @@
+.venv/
+.idea/
+data/
+all_group_products.json
+index.html
